@@ -1,2 +1,2 @@
 # sms-spam-classifier
-Web App - https://yutik-cs-sms-spam-classifier-app-to3afv.streamlit.app/
+Web App - https://yutik-cs-sms-spam-classifier-app-y8fdff.streamlit.app/
