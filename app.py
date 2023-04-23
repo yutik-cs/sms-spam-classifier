@@ -57,7 +57,7 @@ add_bg('sms.jpg')
 tfidf = pickle.load(open('vectorizer.pkl','rb'))
 model = pickle.load(open('model.pkl','rb'))
 
-st.title("SMS Spam Classifier")
+st.title("Spam SMS Detection")
 st.markdown('<label style="color:white; font-weight:bold; font-size:18px;">Enter the message</label>', unsafe_allow_html=True)
 input_sms = st.text_area(" ")
 
